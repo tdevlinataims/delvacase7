@@ -1,0 +1,90 @@
+<fieldset> 
+<legend>Meat Toppings</legend>
+<div>
+<label>Location</label>
+<img src="images/rb_full.png" alt="Full"/>
+<img src="images/rb_left.png" alt="Left"/>
+<img src="images/rb_right.png" alt="Right"/>
+<img src="images/rb_none.png" alt="None"/>
+</div>
+<div>
+<label>Pepperoni</label>
+<input type="radio" value="full"/>
+<input type="radio" value="left"/>
+<input type="radio" value="right"/>
+<input type="radio" value="none" checked="checked" />
+</div> 
+<div>
+<label>Ham</label>
+<input type="radio" value="full"/>
+<input type="radio" value="left"/>
+<input type="radio" value="right"/>
+<input type="radio" value="none" checked="checked" />
+</div>
+<div>
+<label>Pork</label>
+<input type="radio" value="full"/>
+<input type="radio" value="left"/>
+<input type="radio" value="right"/>
+<input type="radio" value="none" checked="checked" />
+</div>
+<div>
+<label>Sausage</label>
+<input type="radio" value="full"/>
+<input type="radio" value="left"/>
+<input type="radio" value="right"/>
+<input type="radio" value="none" checked="checked" />
+</div>
+<div>
+<label>Chicken</label>
+<input type="radio" value="full"/>
+<input type="radio" value="left"/>
+<input type="radio" value="right"/>
+<input type="radio" value="none" checked="checked" />
+</div>
+</fieldset>
+<fieldset>
+<legend>Vegetable Toppings</legend>
+<div>
+<label>Location</label>
+<img src="images/rb_full.png" alt="Full"/>
+<img src="images/rb_left.png" alt="Left"/>
+<img src="images/rb_right.png" alt="Right"/>
+<img src="images/rb_none.png" alt="None"/>
+</div>
+<div>
+<label>Mushroom</label>
+<input type="radio" value="full"/>
+<input type="radio" value="left"/>
+<input type="radio" value="right"/>
+<input type="radio" value="none" checked="checked" />
+</div> 
+<div>
+<label>Green Peppers</label>
+<input type="radio" value="full"/>
+<input type="radio" value="left"/>
+<input type="radio" value="right"/>
+<input type="radio" value="none" checked="checked" />
+</div>
+<div>
+<label>Onions</label>
+<input type="radio" value="full"/>
+<input type="radio" value="left"/>
+<input type="radio" value="right"/>
+<input type="radio" value="none" checked="checked" />
+</div>
+<div>
+<label>Tomatoes</label>
+<input type="radio" value="full"/>
+<input type="radio" value="left"/>
+<input type="radio" value="right"/>
+<input type="radio" value="none" checked="checked" />
+</div> 
+<div>
+<label>Jalapenos</label>
+<input type="radio" value="full"/>
+<input type="radio" value="left"/>
+<input type="radio" value="right"/>
+<input type="radio" value="none" checked="checked" />
+</div>
+</fieldset>
